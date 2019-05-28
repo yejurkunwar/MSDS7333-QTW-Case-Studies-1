@@ -7790,7 +7790,7 @@ Place Div  /Tot   Num    Name                   Ag Hometown             5 Mile  
  7782  2393/2706   18971 Amanda Jackson         26 Herndon VA             55:34 2:11:44 1:55:13 11:32   
  7783  2394/2706   19713 Jennie Rose Delia      29 Gaithersburg MD        58:49 2:12:28 1:55:14 11:32   
  7784   855/937    14820 Melissa Jackson        23 Charleston SC          55:34 2:11:44 1:55:14 11:32   
- 7785  1599/1866   17574 Marie-Laure Poirü¾Ž–”¼      32 Arlington VA           59:09 2:07:39 1:55:15 11:32   
+ 7785  1599/1866   17574 Marie-Laure Poir<U+653C><U+3E39>      32 Arlington VA           59:09 2:07:39 1:55:15 11:32   
  7786  1600/1866   16449 Anita Gibson           34 Washington DC          54:04 2:04:58 1:55:15 11:32   
  7787  1601/1866   17849 Masako Kakihara        32 Arlington VA           55:35 2:09:08 1:55:15 11:32   
  7788  1602/1866   17533 Emily Stone            33 Atlanta GA             57:09 2:11:33 1:55:15 11:32   
